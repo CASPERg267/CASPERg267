@@ -6,7 +6,7 @@ My name is Casper (yes its my name). I am just a cool developer and I live somew
 I started developing discord bots a few months ago and now improving my skills in Web Development. I love listening to rock, and I really love playing games. If you're want more detailed information about me, check out my website!
 
 - Website: [developer.gfstatus.me](https://developer.gfstatus.me)
-- Twitter: [@RagCaspe](https://twitter.com/RagCaspe)
+- Twitter: [@CasperAg267](https://twitter.com/CasperAg267)
 
 ---
 
