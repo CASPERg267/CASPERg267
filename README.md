@@ -3,7 +3,7 @@
 ### Hello there! 👋
 My name is Casper (yes its my name). I am just a cool developer and I live somewhere on Earth.
 <br><br>
-I started developing discord bots a few months ago and now improving my skills in Web Development. I love listening to rock, and I really love playing games. If you're want more detailed information about me, check out my website!
+I started developing discord bots a few months ago and now improving my skills in Web Development. I love listening to rock, and I really love playing games. If you want more detailed information about me, check out my website!
 
 - Website: [developer.gfstatus.me](https://developer.gfstatus.me)
 - Twitter: [@CasperAg267](https://twitter.com/CasperAg267)
